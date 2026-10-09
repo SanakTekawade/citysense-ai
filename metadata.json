@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass UI - Obsidian Edition",
+  "description": "High-fidelity liquid glass UI design system with pure plane black background, authentic specular refraction, and interactive mobile & desktop components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
